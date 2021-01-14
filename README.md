@@ -14,7 +14,6 @@
 <img src="https://i.imgur.com/ShajHt9.png" alt="Listagem">
 
 <p><strong>2. Modal de criação/edição de desenvolvedores</strong></p>
-<small>Com possibilidade de criar/editar/excluir os devs cadastrados</small>
 <img src="https://i.imgur.com/9dzulYB.png" alt="Listagem">
 
 
